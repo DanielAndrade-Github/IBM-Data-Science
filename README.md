@@ -1,2 +1,4 @@
 # IBM-Data-Science
-Notebook presented to Grade
+Professional Certification
+Daniel Vaz Andrade
+Data Scientist at Funcional Healthtec
